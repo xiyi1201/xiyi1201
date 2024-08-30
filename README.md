@@ -3,7 +3,7 @@
 ## 🌱 Who am I
 I am a current Master's student studying Machine Learning and Data Science at Northwestern University. I developed my passion for data science and would like to leverage my insights and skills in doing more impactful and meaningful things. :) 
 
-I am also eager for learnig the cutting-edge technology to stay on trend while enriching myself. I'm currently diving deep into machine learning and data science, exploring advanced topics like reinforcement learning and deep learning, and applying them to real-world projects. My passion for data drives me to extract meaningful insights and tell compelling data stories as a data alchemist.
+I am also eager for learning the cutting-edge technology to stay on trend while enriching myself. I'm currently diving deep into machine learning and data science, exploring advanced topics like reinforcement learning and deep learning, and applying them to real-world projects. My passion for data drives me to extract meaningful insights and tell compelling data stories as a data alchemist.
 
 - [Resume](https://drive.google.com/file/d/1Vo6UFJgwKWqmZwSLNXQZ6zbLOy1e44lN/view?usp=share_link)
 
