@@ -35,7 +35,7 @@ I am also eager for learning the cutting-edge technology to stay on trend while 
 - *More projects available on my GitHub repository. Please feel free to check them out!*
 
 ## 💬 Let's Connect!
-- **LinkedIn**: [Xiyi Liin](http://www.linkedin.com/in/xiyi-lin)
+- **LinkedIn**: [Xiyi Lin](http://www.linkedin.com/in/xiyi-lin)
 - **Email**: xiyi1201@gmail.com
 
 Thanks for visiting my profile! Feel free to explore my repositories and get in touch if you want to collaborate or chat about data science, machine learning, or anything else! Open for any work opportunities :)
