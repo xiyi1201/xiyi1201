@@ -5,7 +5,10 @@ Hello! I'm a Data Scientist with a strong background in machine learning, statis
 
 I believe that "good data serves for good purpose with right method". I've utilized tools like Python, R, SQL, and cloud platforms to deliver impactful results. My work spans from improving chatbot NLP capabilities using open-source models to predicting customer behavior with machine learning models. I am constantly learning and contributing to projects involving data-driven decision-making, automation, and scalability.
 
-- [Resume](https://drive.google.com/file/d/1LZmjAHyXhIP0j4L_txS21BwLVNXHgbS5/view?usp=sharing)
+Open to Data Scientist, Machine Learning Engineer, Data Analyst, Business Intelligence roles:
+
+- [Resume_DS](https://drive.google.com/file/d/1LZmjAHyXhIP0j4L_txS21BwLVNXHgbS5/view?usp=sharing)
+- [Resume_DA](https://drive.google.com/file/d/1BbMO0TGJXyD1xB9KJo2g-EzOSyBHVQqF/view?usp=sharing)
 
 ## 💻 Experience
 
