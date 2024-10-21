@@ -1,14 +1,15 @@
 # Hi 👋 I am Xiyi Lin
 
-## 🌱 Self Intro
+## 👩‍💻 Self Intro
 Hello! I'm a Data Scientist with a strong background in machine learning, statistical modeling, and data analytics. Currently I am studying Machine Learning and Data Science (MS) at Northwestern University. My passion lies in uncovering insights from complex datasets to drive business decisions and innovation. I have experience working with diverse data sources, including real-time data platforms like Google Cloud and AWS, and have implemented solutions that optimize data retrieval, enhance predictive models, and streamline workflows.
 
 I believe that "good data serves for good purpose with right method". I've utilized tools like Python, R, SQL, and cloud platforms to deliver impactful results. My work spans from improving chatbot NLP capabilities using open-source models to predicting customer behavior with machine learning models. I am constantly learning and contributing to projects involving data-driven decision-making, automation, and scalability.
 
-Open to any Data Scientist, Machine Learning Engineer, Data Analyst, Business Intelligence roles:
+Open to any Data Scientist, Machine Learning Engineer, Data Analyst, Business Intelligence， AI roles:
 
 - [Resume_DS](https://drive.google.com/file/d/1LZmjAHyXhIP0j4L_txS21BwLVNXHgbS5/view?usp=sharing)
 - [Resume_DA](https://drive.google.com/file/d/1BbMO0TGJXyD1xB9KJo2g-EzOSyBHVQqF/view?usp=sharing)
+- No sponsorship needed 
 
 ## 💻 Experience
 
@@ -26,7 +27,8 @@ Open to any Data Scientist, Machine Learning Engineer, Data Analyst, Business In
 ### Northwestern University (Sep 2023 - Dec 2024)
 - **M.S. in Machine Learning and Data Science** 
 - **GPA**: 3.94/4.0
-- **Relevant Coursework**: Data Visualization, Data Mining, Cloud Engineering, Deep Learning, Text Analytics, Data Warehousing, Optimization and Heuristics, Time Series, Healthcare Analytics, Natural Language Processing 
+- **Relevant Coursework**: Data Visualization, Data Mining, Cloud Engineering, Deep Learning, Text Analytics, Data Warehousing,
+Optimization and Heuristics, Time Series, Healthcare Analytics, Natural Language Processing
 
 ### Stony Brook University (Jan 2020 - Dec 2022)
 - **B.S. in Applied Mathematics & Statistics | Double Major in Economics | Minor in Korean Studies** 
@@ -36,7 +38,9 @@ Open to any Data Scientist, Machine Learning Engineer, Data Analyst, Business In
 ## 🛠️ Technical Skills
 
 **Programming**: Python (scikit-learn, numpy, pandas, TensorFlow, matplotlib, PyTorch, nltk, spacy), R, MATLAB, SAS, SQL  
+
 **Platform**: AWS, GCP, Github, VS Code, Jupyter Notebook, Google Apps, SQLite, Postgres, Snowflake
+
 **Software**: Tableau, Power BI, Microsoft Office, Hadoop, Spark, Docker, Hive, Hbase, Miro, Trello (Agile) 
 
 ## 📈 Project Highlights
