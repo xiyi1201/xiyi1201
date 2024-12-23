@@ -7,8 +7,8 @@ I believe that "good data serves good purposes when paired with the right method
 
 Open to any Data Scientist, Machine Learning Engineer, Data Analyst, Business Intelligence, AI Engineer roles:
 
-- [Resume_DS](https://drive.google.com/file/d/1q16Um9Q1TLHdHeMhCcNcxcGDo4Fdkloo/view?usp=sharing)
-- [Resume_DA](https://drive.google.com/file/d/1BbMO0TGJXyD1xB9KJo2g-EzOSyBHVQqF/view?usp=sharing)
+- [Resume_DS](https://drive.google.com/file/d/1H5WZbQSDKf5RA3vpMjnCDNjDpvkt9aRh/view?usp=sharing)
+- [Resume_DA](https://drive.google.com/file/d/1wydcANm13tgQz8ciHBzpyNWC_whDvLg-/view?usp=sharing)
 - Permanent Resident
 
 > “In God we trust, all others bring data.”  
@@ -17,9 +17,8 @@ Open to any Data Scientist, Machine Learning Engineer, Data Analyst, Business In
 ## 💻 Experience
 
 ### Data Scientist at [PepsiCo](https://www.pepsico.com) 
-Full Time *(Jan 2025 - Present)*
-
-Part Time *(Oct 2024 - Dec 2024)*
+- Full Time *(Jan 2025 - Present)*
+- Part Time *(Oct 2024 - Dec 2024)*
 
 ### R&D Intern: Data Science and Analytics at [PepsiCo](https://www.pepsico.com) *(Jun 2024 - Aug 2024)*
 
