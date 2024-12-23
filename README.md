@@ -3,40 +3,50 @@
 ## 👩‍💻 Self Intro
 Hello! I'm a Data Scientist with a strong background in machine learning, statistical modeling, and data analytics. I have my MS degeree in Machine Learning and Data Science at Northwestern University. My passion lies in uncovering insights from complex datasets to drive business decisions and innovation. I have great experience working with diverse data sources, including real-time data platforms like Google Cloud and AWS, and have implemented solutions that optimize data retrieval, enhance predictive models, and streamline workflows, etc.
 
-I believe that "good data serves for good purposes with right method". I've utilized tools like Python, R, SQL, and cloud platforms to deliver impactful results, and also aim for always optimzing the solution. My work spans from improving chatbot NLP capabilities using open-source models to predicting customer behavior with machine learning models. I am constantly learning and contributing to projects involving data-driven decision-making, automation, and scalability.
+I believe that "good data serves good purposes when paired with the right methods," inspired by the saying "garbage in, garbage out." I've utilized tools like Python, R, SQL, and cloud platforms to deliver impactful results, and also aim for always optimzing the solution. My work spans from improving chatbot NLP capabilities using open-source models to predicting customer behavior with machine learning models. I am continually learning and contributing to projects focused on data-driven decision-making, automation, and scalability, aiming to take the ownership and create significant business impact.
 
-Open to any Data Scientist, Machine Learning Engineer, Data Analyst, Business Intelligence，AI Engineer roles:
+Open to any Data Scientist, Machine Learning Engineer, Data Analyst, Business Intelligence, AI Engineer roles:
 
 - [Resume_DS](https://drive.google.com/file/d/1q16Um9Q1TLHdHeMhCcNcxcGDo4Fdkloo/view?usp=sharing)
 - [Resume_DA](https://drive.google.com/file/d/1BbMO0TGJXyD1xB9KJo2g-EzOSyBHVQqF/view?usp=sharing)
 - Permanent Resident
 
+> “In God we trust, all others bring data.”  
+> — W. Edwards Deming
+
 ## 💻 Experience
 
-### Data Scientist (part-time) at [PepsiCo](https://www.pepsico.com) (Oct 2024 - Present)
+### Data Scientist at [PepsiCo](https://www.pepsico.com) 
+Full Time *(Jan 2025 - Present)*
 
-### R&D Intern: Data Science and Analytics at [PepsiCo](https://www.pepsico.com) (Jun 2024 - Aug 2024)
+Part Time *(Oct 2024 - Dec 2024)*
+
+### R&D Intern: Data Science and Analytics at [PepsiCo](https://www.pepsico.com) *(Jun 2024 - Aug 2024)*
 
 ## 🎓 Education
 
-### Northwestern University (Sep 2023 - Dec 2024)
+### Northwestern University *(Sep 2023 - Dec 2024)*
 - **M.S. in Machine Learning and Data Science** 
-- **GPA**: 3.94/4.0
-- **Relevant Coursework**: Data Mining, Cloud Engineering, Deep Learning, Text Analytics, Data Warehousing, Optimization and Heuristics,
-Time Series, Healthcare Analytics, Natural Language Processing, Data Visualization, Econometrics
+- **GPA**: 3.95/4.0
+- **Relevant Coursework**: Data Mining, Cloud Engineering, Deep Learning, Text Analytics, Data Warehousing, Optimization and Heuristics, Time Series, Healthcare Analytics, Natural Language Processing, Data Visualization, Econometrics
 
-### Stony Brook University (Jan 2020 - Dec 2022)
+### Stony Brook University *(Jan 2020 - Dec 2022)*
 - **B.S. in Applied Mathematics & Statistics | Double Major in Economics | Minor in Korean Studies** 
 - **GPA**: 3.96/4.0
 - **Scholarships**: Korean Studies Academic Excellence and Leadership Scholarships (2022)
 
-## 🛠️ Technical Skills
+## 🛠️ Skillsets
+📄 *Technical Skills* 
 
 **Programming**: Python (scikit-learn, numpy, pandas, TensorFlow, matplotlib, PyTorch, nltk, spacy), SQL, R, MATLAB, SAS
 
 **Platform**: AWS, GCP, Github, VS Code, Jupyter Notebook, Google Apps, SQLite, Postgres, Snowflake, Gurobi Optimization, REST API
 
 **Software**: Tableau, Power BI, Microsoft Office, Hadoop, Spark, Docker, Hive, Hbase, Miro, Trello (Agile), AMPL, CI/CD
+
+🗣️ *Language Skills* 
+
+English, Mandarin, Korean
 
 ## 📈 Project Highlights
 - **[Beep](https://ridebeep.com): NLP and LLM for Multi-Passenger Autonomy**: This is the capstone project partnered with Beep which involved leveraging Google Cloud Platform and Postgres to store and retrieve real-time vehicle (GTFS) and location data, improving data retrieval speed by 40% and achieving 95% accuracy in providing timely route and safety information to passengers. Additionally, the chatbot's NLP capabilities were enhanced by 30% through the use of open-source LLMs via APIs, enabling faster and more efficient query processing. The implementation of zero-shot learning about NLP and function calling to categorize passenger queries further improved operational efficiency and provided real-time assistance, enhancing the overall satisfying passenger experience.
