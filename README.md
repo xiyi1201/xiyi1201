@@ -7,17 +7,18 @@ I believe that "good data serves good purposes when paired with the right method
 
 Open to any Data Scientist, Machine Learning Engineer, Data Analyst, Business Intelligence, AI Engineer roles:
 
-- [Resume_DS](https://drive.google.com/file/d/1HWvamCFEgv1tkq4r4Ix7YZCeYDYx4KHK/view?usp=sharing)
-- [Resume_DA](https://drive.google.com/file/d/1wydcANm13tgQz8ciHBzpyNWC_whDvLg-/view?usp=sharing)
+- [Resume](https://drive.google.com/file/d/10pLk71yEBpHNAtUj3jTLNZl2WLTg95Mp/view?usp=sharing)
 - Permanent Resident
 
 > “In God we trust, all others bring data.”  
 > — W. Edwards Deming
 
 ## 💻 Experience
+### Data Science Analyst at [Wells Fargo](https://www.wellsfargo.com/)
+- Full Time *(Aug 2025 - Present)*
 
 ### Data Scientist at [PepsiCo](https://www.pepsico.com) 
-- Full Time *(Jan 2025 - Present)*
+- Full Time *(Jan 2025 - July 2025)*
 - Part Time *(Oct 2024 - Dec 2024)*
 
 ### R&D Intern: Data Science and Analytics at [PepsiCo](https://www.pepsico.com) *(Jun 2024 - Aug 2024)*
