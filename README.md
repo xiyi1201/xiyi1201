@@ -7,14 +7,14 @@ I believe that "good data serves good purposes when paired with the right method
 
 Open to any Data Scientist, Machine Learning Engineer, Data Analyst, Business Intelligence, AI Engineer roles:
 
-- [Resume](https://drive.google.com/file/d/10pLk71yEBpHNAtUj3jTLNZl2WLTg95Mp/view?usp=sharing)
-- Permanent Resident
+- [Resume](https://drive.google.com/file/d/1ifjdZASnO8FEjCsDGqVdMAUFkuvB-Prv/view?usp=sharing)
+- US Permanent Resident
 
 > “In God we trust, all others bring data.”  
 > — W. Edwards Deming
 
 ## 💻 Experience
-### Data Science Analyst at [Wells Fargo](https://www.wellsfargo.com/)
+### Data Science Associate at [Wells Fargo](https://www.wellsfargo.com/)
 - Full Time *(Aug 2025 - Present)*
 
 ### Data Scientist at [PepsiCo](https://www.pepsico.com) 
@@ -38,7 +38,7 @@ Open to any Data Scientist, Machine Learning Engineer, Data Analyst, Business In
 ## 🛠️ Skillsets
 📄 *Technical Skills* 
 
-**Programming**: Python (scikit-learn, numpy, pandas, TensorFlow, matplotlib, PyTorch, nltk, spacy), SQL, R, MATLAB, SAS
+**Programming**: Python (e.g., scikit-learn, numpy, pandas, matplotlib, nltk, spacy), SQL, R, MATLAB, SAS
 
 **Platform**: AWS, GCP, Github, VS Code, Jupyter Notebook, Google Apps, SQLite, Postgres, Snowflake, Gurobi Optimization, REST API
 
