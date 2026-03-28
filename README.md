@@ -1,4 +1,4 @@
-# Hi 👋 I am Xiyi Lin
+# Hi 👋 I am Cecilia (Xiyi) Lin
 
 ## 👩‍💻 Self Intro
 Hello! I'm a Data Scientist with a strong background in machine learning, statistical modeling, and data analytics. I have my MS degeree in Machine Learning and Data Science at Northwestern University. My passion lies in uncovering insights from complex datasets to drive business decisions and innovation. I have great experience working with diverse data sources, including real-time data platforms like Google Cloud and AWS, and have implemented solutions that optimize data retrieval, enhance predictive models, and streamline workflows, etc.
@@ -38,11 +38,11 @@ Open to any Data Scientist, Machine Learning Engineer, Data Analyst, Business In
 ## 🛠️ Skillsets
 📄 *Technical Skills* 
 
-**Programming**: Python (e.g., scikit-learn, numpy, pandas, matplotlib, nltk, spacy), SQL, R, MATLAB, SAS
+**Programming**: Python (e.g. scikit-learn, numpy, pandas, Matplotlib, Streamlit, NLTK, Gurobi, etc.), SQL, R, STATA, SAS
 
-**Platform**: AWS, GCP, Github, VS Code, Jupyter Notebook, Google Apps, SQLite, Postgres, Snowflake, Gurobi Optimization, REST API
+**Platform**: AWS, GCP, Azure, Linux, Docker, Hadoop, Spark, Hive, PostgreSQL, Snowflake, Oracle, Databricks
 
-**Software**: Tableau, Power BI, Microsoft Office, Hadoop, Spark, Docker, Hive, Hbase, Miro, Trello (Agile), AMPL, CI/CD
+**Software**: Tableau, Power BI, GitHub, VS Code, Anaconda, JIRA, Trello, Miro, AMPL, Figma, Microsoft Office Suite
 
 🗣️ *Language Skills* 
 
